@@ -5,7 +5,7 @@ A curated list of amazingly awesome Fiddles
 
 # Contributing
 
-Please see CONTRIBUTING and CODE-OF-CONDUCT for details.
+Please see [CONTRIBUTING](https://github.com/ravikumar8/awesome-fiddles/blob/master/CONTRIBUTING.md) and [CODE-OF-CONDUCT](https://github.com/ravikumar8/awesome-fiddles/blob/master/CODE-OF-CONDUCT.md) for details.
 
 ## Javascript
 
