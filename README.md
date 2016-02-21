@@ -1,26 +1,29 @@
+
 # Awesome Fiddles
 
 A curated list of amazingly awesome Fiddles
 
-http://pythonfiddle.com/
-https://fiddles.io/
-http://rubyfiddle.com/
-http://phpfiddle.org/
-https://jsfiddle.net/
-https://dotnetfiddle.net/
-http://sqlfiddle.com/
-http://www.es6fiddle.net/
-http://www.fusioncharts.com/javascript-chart-fiddles/
-http://fiddlesalad.com/
-http://codepen.io/
-http://jsbin.com/?html,css,js,output
-http://dabblet.com/
-http://liveweave.com/
-http://www.r-fiddle.org/
-http://www.bootply.com/
-https://fiddle.sencha.com/#home
-http://refiddle.com/
-http://twigfiddle.com/about
-https://runnable.io/
-http://fiddle.tinymce.com/
-http://pastebin.com/
+## Javascript
+
+![Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.][logo] [JSFiddle code editor](https://jsfiddle.net/)
+![alt text][logo]
+![alt text][logo]
+![alt text][logo]
+![alt text][logo]
+![alt text][logo]
+![alt text][logo]
+![alt text][logo]
+![alt text][logo]
+![alt text][logo]
+
+
+[logo]: https://cdn-images-1.medium.com/fit/c/32/32/1*ZBck4wEYzTy30WSL5zqbSA.png "Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor."
+
+
+https://static.jsbin.com/images/favicon.png
+
+## License
+
+![cc license](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.
