@@ -9,7 +9,6 @@ A curated list of amazingly awesome Fiddles
 * [JS Bin - Collaborative JavaScript Debugging](https://jsbin.com/)
 * [Plunker is an online community for creating, collaborating on and sharing your web development ideas.](https://plnkr.co/)
 * [Fiddlin' With ECMAScript 6.](http://www.es6fiddle.net/)
-* [JSFiddle code editor](https://jsfiddle.net/)
 * [TinyMCE Fiddle](http://fiddle.tinymce.com/)
 * [JavaScript Chart Fiddles | FusionCharts](http://www.fusioncharts.com/javascript-chart-fiddles/)
 * [Sencha Fiddle - Ext JS and Sencha Touch Fiddler](https://fiddle.sencha.com/#home)
