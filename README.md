@@ -61,6 +61,12 @@ A curated list of amazingly awesome Fiddles
 ## Pastebins
 
 * [Pastebin.com - #1 paste tool since 2002!](http://pastebin.com/)
+* [Hastebin](http://hastebin.com/)
+* [Chop &ndash; Post code, write notes and share feedback](http://chopapp.com/)
+* [Cryptbin | Encrypted Pastes](https://cryptbin.com/)
+* [ZeroBin](http://sebsauvage.net/paste/)
+* [Gist Github](https://gist.github.com/)
+
 
 ## License
 
