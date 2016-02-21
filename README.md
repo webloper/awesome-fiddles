@@ -3,6 +3,10 @@
 
 A curated list of amazingly awesome Fiddles
 
+# Contributing
+
+Please see CONTRIBUTING and CODE-OF-CONDUCT for details.
+
 ## Javascript
 
 * [JSFiddle code editor](https://jsfiddle.net/)
