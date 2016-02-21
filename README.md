@@ -5,15 +5,8 @@ A curated list of amazingly awesome Fiddles
 
 ## Javascript
 
-![Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.] [JSFiddle][JSFiddle code editor](https://jsfiddle.net/)
-
-![A live pastebin for HTML, CSS & JavaScript and a range of processors, including SCSS, CoffeeScript, Jade and more...][jsbin] [JS Bin - Collaborative JavaScript Debugging](https://jsbin.com/)
-
-
-[JSFiddle]: https://jsfiddle.net/favicon.png "Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor."
-[jsbin]: https://static.jsbin.com/images/favicon.png "A live pastebin for HTML, CSS & JavaScript and a range of processors, including SCSS, CoffeeScript, Jade and more..."
-
-
+* [JSFiddle code editor](https://jsfiddle.net/)
+* [JS Bin - Collaborative JavaScript Debugging](https://jsbin.com/)
 
 ## License
 
